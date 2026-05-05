@@ -1,1 +1,1 @@
-Run the program. Then, enter either 1 for first-come, first-serve, 2 for shortest-job-first, 3 for priority, 4 for round-robin (each process equally gets the same CPU time and if it can't finish in that time, then it will need to join the end of the queue), and 5 for priority with round-robin for equal priority tasks.
+Run the program. Then, enter either 1 for first-come, first-serve, 2 for shortest-job-first, 3 for priority, 4 for round-robin, and 5 for priority with round-robin for equal priority tasks.
